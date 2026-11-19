@@ -1,3 +1,5 @@
+![Nexo Ridge Homes project cover](docs/readme-banner.svg)
+
 <div align="center">
   <h1>Nexo Ridge Homes</h1>
   <p><strong>A property showcase with considered editorial storytelling.</strong></p>
